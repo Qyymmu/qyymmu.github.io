@@ -52,7 +52,7 @@ body {
   margin-left: -12px;
   color: #030005;
   text-transform: uppercase;
-  text-shadow: -1px -1px 0px #FCAC45, 1px 1px 0px #ffffff;
+  text-shadow: -1px -1px 0px #ff119c, 1px 1px 0px #ffffff;
   letter-spacing: -20px;
 }
 
@@ -67,7 +67,7 @@ body {
   font-weight: 700;
   color: #fff;
   text-transform: uppercase;
-  text-shadow: 0px 2px 0px #FCAC45;
+  text-shadow: 0px 2px 0px #ff119c;
   letter-spacing: 13px;
   margin: 0;
 }
@@ -88,7 +88,7 @@ body {
 }
 
 .notfound a:hover {
-  color: #FCAC45;
+  color: #ff119c;
 }
 
 @media only screen and (max-width: 767px) {
